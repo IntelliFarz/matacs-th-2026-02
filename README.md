@@ -1,6 +1,6 @@
 # MATACS-TH-2026-02: AI Proposal Triage Design
 
-- **Name:**Farzain Ahmed 
+- **Name:** Farzain Ahmed 
 - **Reference:** MATACS-TH-2026-02
 - **Time actually spent:** about 2 hours 15 minutes
 
