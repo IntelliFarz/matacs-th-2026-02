@@ -1,0 +1,12 @@
+[
+  { "proposal": "A", "rank": 1, "status": "ranked",
+    "score": 98.01, "reason": "Highest score: passes both mandatory checks, most installs, fastest schedule (12 weeks) and a complete team and approach." },
+  { "proposal": "E", "rank": 2, "status": "ranked",
+    "score": 84.8, "reason": "Passes mandatory checks with a complete team plan and the longest warranty, but fewer installs than A and a slightly longer schedule and higher price." },
+  { "proposal": "B", "rank": null, "status": "ineligible",
+    "score": null, "reason": "Electrical work goes to a subcontractor still to be confirmed, so the bidder's own licence is not stated; the low price cannot override a mandatory failure." },
+  { "proposal": "C", "rank": null, "status": "flagged",
+    "score": null, "reason": "Contains an embedded instruction aimed at automated reviewers (ignored) and an install period that may exceed 5 years; provisional score 77.06 pending human review." },
+  { "proposal": "D", "rank": null, "status": "flagged",
+    "score": null, "reason": "No installation schedule is given, so Timeline cannot be scored; provisional score 69.82 with Timeline at 0, pending the reviewer's decision." }
+]
