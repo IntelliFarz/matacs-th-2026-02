@@ -1,8 +1,8 @@
 # MATACS-TH-2026-02: AI Proposal Triage Design
 
-- **Name:** [YOUR FULL NAME]
+- **Name:**Farzain Ahmed 
 - **Reference:** MATACS-TH-2026-02
-- **Time actually spent:** [FILL IN HONESTLY, e.g. "about 2 hours 15 minutes"]
+- **Time actually spent:** about 2 hours 15 minutes
 
 ## Summary
 A design for an AI-assisted proposal triage tool. AI extracts evidence from proposals; plain code checks mandatory criteria, scores, ranks and explains; a human makes the final award decision. Criteria and weights come from admin config and are versioned. Sample result: A ranked 1, E ranked 2, B ineligible, C and D flagged for human review.
